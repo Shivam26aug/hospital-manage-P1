@@ -1,1 +1,2 @@
 # hospital-manage-P1
+The core objective of our Hospital Management Application is to streamline and digitize the operations of a hospital, making it easier for administrators, doctors, nurses, and patients to manage medical records, appointments, billing, and overall patient care. The application centralizes all data, ensuring smooth communication between different roles in the hospital while enhancing efficiency and reducing paperwork
